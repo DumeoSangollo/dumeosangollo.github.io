@@ -1,2 +1,2 @@
 # dumeosangollo.github.io
-두메산골 개인홈
+개인홈 생성 프로젝트
